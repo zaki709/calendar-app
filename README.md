@@ -1,4 +1,17 @@
-# React + TypeScript + Vite
+# 説明
+
+家族共用のカレンダーアプリを作成したい
+
+# ブランチルール
+
+基本的には `dev/main` ブランチで開発を進める
+
+適宜dev/mainブランチからブランチを切って作業を進めていく
+
+
+# 公式documents
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
